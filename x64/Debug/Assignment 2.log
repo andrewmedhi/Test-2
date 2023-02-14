@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\andre\source\repos\Assignment 2 Sol\Assignment 2\main.cpp(10,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Assignment 2.vcxproj -> C:\Users\andre\source\repos\Assignment 2 Sol\x64\Debug\Assignment 2.exe
