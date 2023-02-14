@@ -19,6 +19,10 @@ int main(int argc, char* argv[]) {
 	new_maze.MakeMaze();
 
 	new_maze.Print();
+	
+	for(int i=0;i<4;i++){
+		std::cout<<"Please"<<std::endl;
+	}
 
 
 
